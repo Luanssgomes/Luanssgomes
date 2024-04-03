@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Dev em Dobro 😁
+## Bem-vindo(a) ao meu perfil eu sou o Dev JS. 😁
 
  <div>
    <a href="https://github.com/Luanssgomes
